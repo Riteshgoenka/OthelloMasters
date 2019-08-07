@@ -1,0 +1,2 @@
+# OthelloMasters
+Course Project
